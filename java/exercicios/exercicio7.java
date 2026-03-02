@@ -3,7 +3,7 @@ package exercicios;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercico7 {
+public class exercicio7 {
     public static void main(String[] args) {
         double A, B, C, AreaTrinagulo, AreaCirculo, AreaTrapezio, AreaQuadrado, AreaRetangulo;
 
