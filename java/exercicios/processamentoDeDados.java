@@ -1,3 +1,4 @@
+package exercicios;
 public class processamentoDeDados{
     public static void main(String[] args) {
         int x, y, q;

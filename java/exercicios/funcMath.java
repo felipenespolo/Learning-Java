@@ -1,3 +1,4 @@
+package exercicios;
 public class funcMath {
     public static void main(String[] args) {
         double x = 3.0;
