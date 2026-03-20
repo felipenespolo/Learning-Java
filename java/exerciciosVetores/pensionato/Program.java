@@ -14,7 +14,8 @@ public class Program {
 
         for (int i = 0; i < vect.length; i++) {
             String name = sc.nextLine();
-            String email = sc.next
+            String email = sc.nextLine();
+            int room = sc.nextInt();
         }
 
 
