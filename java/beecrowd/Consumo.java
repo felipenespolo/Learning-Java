@@ -16,7 +16,8 @@ public class Consumo {
         sc.close();
 
         Consumo = Km/Combustivel;
+        
 
         System.out.printf("%.3f km/l%n", Consumo);
-    }
+    } 
 }
